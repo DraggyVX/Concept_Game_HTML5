@@ -1,0 +1,31 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    text-shadow: 1px 2px 50px black;
+    text-align: center;
+    left: auto;
+    right: auto;
+    font-family: Montserrat;
+}
+
+button {
+    font-size: 16px;
+}
+
+#rng-button {
+    text-align: center;
+    left: auto;
+    right: auto;
+    padding: 5px;
+    font-family: Eczar;
+    font-size: 13px;
+}
+
+#output {
+    text-align: center;
+    padding: 5px;
+    font-size: 40px;
+    font-family: Montserrat;
+}
